@@ -1,73 +1,23 @@
-# Getting Started with Create React App
+# ITALIAN CUISINE MENU PROJECT
+## About My Italian Cuisine Menu Project
+In this project I only used HTML, CSS, and JavaScript . The reason for creating these website is improving my knowledge of JavaScript arrays, objects, functions, and methods. All menu list came from JavaScript object of array and I created all the DOM elements dynamically. Additionally all responsive design behind my project made by using CSS media rules.It was really entartaining and educational to me. I hope you like my projects. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medetcandiler)
 
-## Available Scripts
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
 
-In the project directory, you can run:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
 
-### `npm start`
+[Patika.dev Profile](https://app.patika.dev/meddo)
+---
+Sample of the project:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![sample-of-my-project](https://github.com/medetcandiler/italian-cuisine-menu-project/blob/main/menu-project.gif)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ABOUT ME 
+Hello Everyone. Let me briefly introduce myself to you. First of all I am so glad to see that you are looking at my project. I am 26 years old. I am a mechanical engineer. After my graduation I worked as an engineer in the field somewhere in the region of 5 months. However, after working a few month I felt like it was not for me and I was not happy. After That I decided to research on different careers specifically those that include web development, because I have always been interested in coding, software, computer and its components. After extensive research, I grew more interest towards coding and I felt driven and motivated to become a genuinely brilliant frontend web developer. I would like to add that my education background that engineering has taught me how to work in an higly orginised and systematic way which allows me to learn in an effective way. What I mean is my enginnering background has been making great contrubutions to my learning process. I hope I did not bore you with my brief introduction.
 
-### `npm test`
+## Prepared by
+**Medetcan Diler**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React-weather-app
-# Weather-app-with-React.js
-# Weather-app-with-React.js
