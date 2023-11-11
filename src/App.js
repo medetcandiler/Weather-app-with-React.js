@@ -8,6 +8,9 @@ function App() {
   return (
     <div className="container">
       <WeatherProvider>
+        <h2 className='title'>
+          Check your city's weather
+        </h2>
         <Picker />
         <List />
       </WeatherProvider>

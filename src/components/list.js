@@ -29,7 +29,6 @@ function List() {
       forecasts: forcastArray,
     }
   })
-  console.log(dailyDataArray, 'dailyDataArray')
   const today = new Date().toLocaleDateString();
 
   return (

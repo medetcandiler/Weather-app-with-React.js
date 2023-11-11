@@ -1,6 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
-import cities from '../cityOfTurkey/cities_of_turkey.json'
+import cities from '../citiesOfTurkey/cities_of_turkey.json'
 
 const WeatherContext = createContext()
 
@@ -26,7 +26,6 @@ export const WeatherProvider = ({ children }) => {
     getWeatherData();
   }, [city])
 
-  console.log(data)
 
   const values = { data, setData, city, setCity, cities, loading, setLoading, error };
 

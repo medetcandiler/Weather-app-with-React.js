@@ -1,7 +1,6 @@
 import { useWeather } from '../contexts/weatherContext';
 import Select from "react-select";
 
-
 function Picker() {
   const { cities, setCity } = useWeather();
 
@@ -13,7 +12,7 @@ function Picker() {
     control: (provided) => ({
       ...provided,
       width: 200,
-      cursor:'pointer'
+      cursor: 'pointer',
     }),
   };
 
@@ -34,10 +33,3 @@ function Picker() {
 
 export default Picker
 
-
-
-{/* <label>Select a city: </label>
-        <select  id='mySelect' name='mySelect' value={city} onChange={handleChange} >
-          <option value="Istanbul">Istanbul</option>
-          {cities.map(el => <option key={el.id} value={el.name}>{el.name}</option>)}
-        </select> */}
