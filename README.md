@@ -5,12 +5,11 @@ In the project in order to manage states I used Context API and its useContext h
 ---
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medetcandiler)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
 
-[Patika.dev Profile](https://app.patika.dev/meddo)
 ---
+Live Link: [https://weather-app-with-react-js-omega.vercel.app/](click)
+
 Sample of the project:
 
 ![sample-of-my-project](https://github.com/medetcandiler/Weather-app-with-React.js/blob/main/weather-app.gif)
